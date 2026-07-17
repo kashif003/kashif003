@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Kashif 👋🤖</h1>
 
 <p align="center">
-  <em>AI Master's student turning robots, data, and neural nets into (mostly) obedient systems 🦾📊</em>
+  <em>AI Master's student turning  data, and models into (mostly) obedient systems 🦾📊</em>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 - 🔭 Currently building: automated analysis pipelines as a Student Assistant
-- 🌱 Exploring: model pruning & explainable AI (XAI) in my spare time
+- 🌱 Exploring: model pruning & explainable AI (XAI) in my spare time and agentic AI
 - 🦾 Background: backend development, computer vision, NLP & robotics
 - ✍️ I write on Medium about AI, robotics & explainability
 - 📄 [Download my CV](https://kashif003.github.io/pdf/Kashif_Riyaz_CV.pdf)
