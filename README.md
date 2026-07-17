@@ -1,18 +1,22 @@
 <h1 align="center">Hi there, I'm Kashif 👋🤖</h1>
 
 <p align="center">
-  <em>AI Master's student turning  data, and models into (mostly) obedient systems 🦾📊</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7931E&center=true&vCenter=true&width=500&lines=AI+Engineer+%26+Backend+Developer;Building+Explainable+AI+Systems;Robots%2C+Data+%26+Deep+Learning" />
 </p>
 
 <p align="center">
   📍 Amberg, Germany &nbsp;|&nbsp; 🎓 AI Master's Student @ OTH Amberg &nbsp;|&nbsp; 🧑‍💻 Student Assistant
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kashif003&color=blueviolet&style=flat" alt="Profile views" />
+</p>
+
 ---
 
 ### 🚀 About Me
 - 🔭 Currently building: automated analysis pipelines as a Student Assistant
-- 🌱 Exploring: model pruning & explainable AI (XAI) in my spare time and agentic AI
+- 🌱 Exploring: model pruning & explainable AI (XAI) in my spare time
 - 🦾 Background: backend development, computer vision, NLP & robotics
 - ✍️ I write on Medium about AI, robotics & explainability
 - 📄 [Download my CV](https://kashif003.github.io/pdf/Kashif_Riyaz_CV.pdf)
@@ -23,21 +27,7 @@
 ### 🛠️ My Toolbox
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MLOps-4B8BBE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Explainable_AI-6A5ACD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer_Vision-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Robotics-black?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,git,linux" />
 </p>
 
 ---
@@ -62,6 +52,18 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashif003&theme=radical" width="70%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kashif003&theme=radical&row=1&column=6" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kashif003/kashif003/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
