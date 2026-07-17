@@ -19,7 +19,6 @@
 - 🌱 Exploring: model pruning & explainable AI (XAI) in my spare time
 - 🦾 Background: backend development, computer vision, NLP & robotics
 - ✍️ I write on Medium about AI, robotics & explainability
-- 📄 [Download my CV](https://kashif003.github.io/pdf/Kashif_Riyaz_CV.pdf)
 - ⚡ Fun fact: I once taught a robotic arm to master Tic-Tac-Toe 🤖🎮
 
 ---
@@ -79,4 +78,4 @@
 
 ---
 
-<p align="center"><em>"Every model is wrong, but some are explainable." 😄</em></p>
+<p align="center"><em>"I’m currently unsupervised. I know, it freaks me out too." 😄</em></p>
